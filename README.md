@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do processo seletivo para estágio na *
 
 Aqui, nossa missão é ajudar um abrigo de animais a encontrar o melhor lar para cada bichinho, respeitando suas regrinhas e preferências.
 
-<img src="./assets/foto-com-amora-e-mel.jpeg" alt="Foto com Amora e Mel" width="300px" />
+<img src="./assets/eu_e_amora.jpeg" alt="Foto com Amora" width="300px" />
 
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
